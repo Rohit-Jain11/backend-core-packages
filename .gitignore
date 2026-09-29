@@ -1,8 +1,6 @@
 node_modules
 .turbo
 *.log
-.env
-.env.*
 !.env.example
 coverage
 *.tsbuildinfo
@@ -10,3 +8,8 @@ coverage
 *.db
 *.db-journal
 examples/**/dist
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat

@@ -1,6 +1,6 @@
 {
   "name": "@rohit-jain11/email-templates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive, dynamic, and editable email templates engine with File, DB (Prisma), and Memory stores",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

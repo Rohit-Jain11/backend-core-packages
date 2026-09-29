@@ -1,6 +1,6 @@
 {
   "name": "@rohit-jain11/auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enterprise Authentication System with JWT Access/Refresh tokens, Token Rotation, Argon2/Bcrypt, MFA/TOTP, and OAuth 2.0 helpers",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

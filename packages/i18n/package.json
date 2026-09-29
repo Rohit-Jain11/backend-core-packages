@@ -1,6 +1,6 @@
 {
   "name": "@rohit-jain11/i18n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Environment-driven Language and Internationalization (i18n) service with Express middleware",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

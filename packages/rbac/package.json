@@ -1,6 +1,6 @@
 {
   "name": "@rohit-jain11/rbac",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enterprise Role-Based Access Control (RBAC) and Attribute-Based Access Control (ABAC) with wildcard permissions and Express guards",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
